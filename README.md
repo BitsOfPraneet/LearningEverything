@@ -1,4 +1,4 @@
 # LearningEverything
 First Git repo
 <br>
-Author= Praneet Sorte
+Author= Praneet Praful Sorte
